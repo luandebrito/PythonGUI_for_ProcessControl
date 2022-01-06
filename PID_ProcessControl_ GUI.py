@@ -6,7 +6,7 @@
 # If possible, cite the works found there in your project :)
 
 
-#importar bibliotecas e pacotes // import modeules and packages
+#importar bibliotecas e pacotes // import libraries and packages
 from PyQt5 import QtWidgets, QtCore, uic
 from PyQt5 import uic,QtGui
 from PyQt5.QtCore import *
