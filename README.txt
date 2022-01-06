@@ -10,7 +10,7 @@ xlwt 1.3.0
 NumPy 1.18.1
 SciPy 1.3.2
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 
 This is the project where I had my first contact with the Python language, so a lot of the code still needs to be optimized. Feel free to use it as a basis for your project or research, but please, cite my works that are also present in this repository, it will help me a lot.
 If you have any questions, please contact me via email: luansilvadebrito@hotmail.com
